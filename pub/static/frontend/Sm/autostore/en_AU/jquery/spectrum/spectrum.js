@@ -1,0 +1,5 @@
+XSym
+0049
+1b63e40e422ac6a041e28764b9d81451
+/var/www/html/lib/web/jquery/spectrum/spectrum.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

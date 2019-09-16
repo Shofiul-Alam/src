@@ -1,0 +1,5 @@
+XSym
+0097
+1416d59c91b94d2d5b012f8752a85b00
+/var/www/html/vendor/magento/module-release-notification/view/adminhtml/web/js/modal/component.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,0 +1,5 @@
+XSym
+0082
+373d5c2c55f54ed7bd0c8376342352c1
+/var/www/html/vendor/magento/module-captcha/view/frontend/web/js/action/refresh.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0093
+bf9b3e9832e240762cbc811e483dcecd
+/var/www/html/vendor/magento/module-ui/view/base/web/js/lib/knockout/bindings/color-picker.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

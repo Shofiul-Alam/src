@@ -1,0 +1,5 @@
+XSym
+0075
+93aac917fcd8e93a6202f6af03a5e39a
+/var/www/html/vendor/magento/module-catalog/view/frontend/web/js/gallery.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

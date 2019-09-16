@@ -1,0 +1,5 @@
+XSym
+0092
+a56597c314857e7106270dda93a21829
+/var/www/html/vendor/magento/module-catalog/view/frontend/web/js/product/view/product-ids.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0085
+33d87a067529808df9894b8d056553f1
+/var/www/html/app/design/frontend/Sm/autostore/Magento_PageCache/web/js/page-cache.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

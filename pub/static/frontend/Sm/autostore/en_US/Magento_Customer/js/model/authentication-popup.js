@@ -1,0 +1,5 @@
+XSym
+0095
+a45aebb0b4cc44be35a3b49e7149bbf3
+/var/www/html/vendor/magento/module-customer/view/frontend/web/js/model/authentication-popup.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

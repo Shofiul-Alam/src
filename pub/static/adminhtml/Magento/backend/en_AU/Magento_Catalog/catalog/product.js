@@ -1,0 +1,5 @@
+XSym
+0081
+233a98623c3c15176d5fab220b68c281
+/var/www/html/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

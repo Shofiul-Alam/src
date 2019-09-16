@@ -1,0 +1,5 @@
+XSym
+0074
+9696f862f5f80432335c0c636c6145d0
+/var/www/html/vendor/magento/module-ui/view/base/web/js/lib/collapsible.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

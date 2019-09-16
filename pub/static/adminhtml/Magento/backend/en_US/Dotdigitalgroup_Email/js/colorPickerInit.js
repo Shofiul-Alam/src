@@ -1,0 +1,5 @@
+XSym
+0100
+5cc01eecd884c72d0770b3e83ab1cdbd
+/var/www/html/vendor/dotmailer/dotmailer-magento2-extension/view/adminhtml/web/js/colorPickerInit.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

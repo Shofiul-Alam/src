@@ -1,0 +1,5 @@
+XSym
+0081
+b9c46e71d791601a1b2fb6dd84928a45
+/var/www/html/vendor/magento/module-ui/view/base/web/js/form/components/insert.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

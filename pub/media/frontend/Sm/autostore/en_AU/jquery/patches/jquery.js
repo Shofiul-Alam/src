@@ -1,0 +1,5 @@
+XSym
+0046
+2529f440fde55f711140b64549f18866
+/var/www/html/lib/web/jquery/patches/jquery.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

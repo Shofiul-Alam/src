@@ -1,0 +1,5 @@
+XSym
+0094
+105126c8d0eb581e6b5866308aeb7ddb
+/var/www/html/vendor/dotmailer/dotmailer-magento2-extension/view/adminhtml/web/js/daterange.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

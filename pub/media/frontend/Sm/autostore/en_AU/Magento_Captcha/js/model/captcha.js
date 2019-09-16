@@ -1,0 +1,5 @@
+XSym
+0081
+3acb2a230d7fd8743e84028e0c608f98
+/var/www/html/vendor/magento/module-captcha/view/frontend/web/js/model/captcha.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

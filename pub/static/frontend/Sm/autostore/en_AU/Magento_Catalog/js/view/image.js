@@ -1,0 +1,5 @@
+XSym
+0078
+81de02556f3329796864f33ad141e3ed
+/var/www/html/vendor/magento/module-catalog/view/frontend/web/js/view/image.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

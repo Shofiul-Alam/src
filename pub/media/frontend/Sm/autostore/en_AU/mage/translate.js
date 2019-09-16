@@ -1,0 +1,5 @@
+XSym
+0039
+bf64a8d4f6788be9c855e0578873757b
+/var/www/html/lib/web/mage/translate.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

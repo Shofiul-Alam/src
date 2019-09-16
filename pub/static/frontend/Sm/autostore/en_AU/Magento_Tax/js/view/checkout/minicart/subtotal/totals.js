@@ -1,0 +1,5 @@
+XSym
+0102
+f98510cd353b66115024b01621f485f7
+/var/www/html/vendor/magento/module-tax/view/frontend/web/js/view/checkout/minicart/subtotal/totals.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

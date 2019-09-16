@@ -1,0 +1,5 @@
+XSym
+0089
+7c9c8fa369d84c4de6f9835ef410975b
+/var/www/html/vendor/magento/module-catalog/view/frontend/web/js/product/view/provider.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

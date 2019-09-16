@@ -1,0 +1,5 @@
+XSym
+0080
+0cbcef888de4f14fd465d181b1b15f72
+/var/www/html/vendor/magento/module-ui/view/base/web/js/grid/controls/columns.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

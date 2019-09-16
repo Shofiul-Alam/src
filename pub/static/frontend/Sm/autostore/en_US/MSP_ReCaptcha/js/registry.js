@@ -1,0 +1,5 @@
+XSym
+0067
+7cdf638daa353b643aa9c7d19b4f0bcd
+/var/www/html/vendor/msp/recaptcha/view/frontend/web/js/registry.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

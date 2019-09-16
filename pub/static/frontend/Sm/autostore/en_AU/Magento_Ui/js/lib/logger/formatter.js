@@ -1,0 +1,5 @@
+XSym
+0079
+5657f10551926e0c57087fa3ae04f438
+/var/www/html/vendor/magento/module-ui/view/base/web/js/lib/logger/formatter.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

@@ -1,0 +1,5 @@
+XSym
+0082
+1d56faa6c744c76c9b47e1649eaa1a45
+/var/www/html/app/design/frontend/Sm/autostore/Sm_Autostore/web/js/owl.carousel.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

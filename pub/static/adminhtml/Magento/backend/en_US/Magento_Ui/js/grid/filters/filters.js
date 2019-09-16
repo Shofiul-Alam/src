@@ -1,0 +1,5 @@
+XSym
+0079
+ce5ca8d4f38c9189bd9a755ad5e3eb09
+/var/www/html/vendor/magento/module-ui/view/base/web/js/grid/filters/filters.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

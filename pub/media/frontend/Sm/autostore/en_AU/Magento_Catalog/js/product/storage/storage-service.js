@@ -1,0 +1,5 @@
+XSym
+0099
+cb60ad97eb1e6f78366f58ee9df3b7da
+/var/www/html/vendor/magento/module-catalog/view/frontend/web/js/product/storage/storage-service.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

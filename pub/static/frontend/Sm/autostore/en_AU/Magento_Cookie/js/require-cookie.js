@@ -1,0 +1,5 @@
+XSym
+0081
+a71658dce7ffcf9287e4a8e7d96fc3a5
+/var/www/html/vendor/magento/module-cookie/view/frontend/web/js/require-cookie.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

@@ -1,0 +1,5 @@
+XSym
+0082
+6472436962859cdf41df462fd5920945
+/var/www/html/vendor/magento/module-review/view/frontend/web/js/validate-review.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

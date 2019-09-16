@@ -1,0 +1,5 @@
+XSym
+0088
+5a9af9749a4e9dfa1647a6fc7afccf60
+/var/www/html/vendor/magento/module-catalog/view/frontend/web/product/view/validation.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

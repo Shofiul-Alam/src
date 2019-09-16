@@ -1,0 +1,5 @@
+XSym
+0081
+fd5d3cba3e1d6feb9eb74a0df4bb550c
+/var/www/html/vendor/magento/module-customer/view/frontend/web/js/action/login.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

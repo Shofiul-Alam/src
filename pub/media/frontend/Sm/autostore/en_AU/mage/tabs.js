@@ -1,0 +1,5 @@
+XSym
+0034
+f8ae6449a08ec0516dd0e27fc0ecc43e
+/var/www/html/lib/web/mage/tabs.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0094
+52b4c1c8b6300cf9a5370683b35af624
+/var/www/html/vendor/magento/module-captcha/view/frontend/web/js/view/checkout/loginCaptcha.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

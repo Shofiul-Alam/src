@@ -1,0 +1,5 @@
+XSym
+0094
+7cfb2359f7e048f6a9ab360704f21fef
+/var/www/html/app/design/frontend/Sm/autostore/Sm_AttributesSearch/web/js/attributes-search.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

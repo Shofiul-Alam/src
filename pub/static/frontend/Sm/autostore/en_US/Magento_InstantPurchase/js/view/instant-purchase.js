@@ -1,0 +1,5 @@
+XSym
+0098
+a0654272dbc46b831081ae6f1626ad99
+/var/www/html/vendor/magento/module-instant-purchase/view/frontend/web/js/view/instant-purchase.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

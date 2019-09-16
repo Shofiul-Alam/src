@@ -1,0 +1,5 @@
+XSym
+0084
+c00afedd2a25722629b0ea0869c855e3
+/var/www/html/vendor/magento/module-swatches/view/frontend/web/js/swatch-renderer.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

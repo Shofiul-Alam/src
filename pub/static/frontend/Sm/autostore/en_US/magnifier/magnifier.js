@@ -1,0 +1,5 @@
+XSym
+0073
+eca1163c584a4301154e0d34bca03226
+/var/www/html/app/design/frontend/Sm/autostore/web/magnifier/magnifier.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
