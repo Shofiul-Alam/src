@@ -1,5 +1,0 @@
-XSym
-0042
-4f3ef96aa1818a87a17f54a0dc72deb8
-/var/www/html/lib/web/fotorama/fotorama.js
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

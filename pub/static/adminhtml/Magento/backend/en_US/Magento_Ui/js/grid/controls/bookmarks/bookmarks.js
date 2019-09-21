@@ -1,5 +1,0 @@
-XSym
-0092
-184e7a9f5230f77a05dccbd7a8be10eb
-/var/www/html/vendor/magento/module-ui/view/base/web/js/grid/controls/bookmarks/bookmarks.js
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

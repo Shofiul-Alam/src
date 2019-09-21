@@ -1,5 +1,0 @@
-XSym
-0049
-827ec7069b5f92b0422f9f15529013e8
-/var/www/html/lib/web/jquery/jquery.parsequery.js
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

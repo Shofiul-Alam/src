@@ -1,5 +1,0 @@
-XSym
-0090
-c95e1540c55a4e8afdc9d6e5a1f226bf
-/var/www/html/app/design/frontend/Sm/autostore/Sm_Autostore/web/js/jquery.fancybox.pack.js
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

@@ -1,5 +1,0 @@
-XSym
-0087
-423f291d14b9a3c0dbb54c35b39602f4
-/var/www/html/app/design/frontend/Sm/autostore/Sm_CartQuickPro/web/js/custom-sidebar.js
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

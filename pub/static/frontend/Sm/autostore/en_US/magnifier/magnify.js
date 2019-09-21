@@ -1,5 +1,0 @@
-XSym
-0042
-4d10877bfd4b4fcdded5aaeab49710d8
-/var/www/html/lib/web/magnifier/magnify.js
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

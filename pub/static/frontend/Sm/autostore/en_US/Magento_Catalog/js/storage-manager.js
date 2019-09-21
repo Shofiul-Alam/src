@@ -1,5 +1,0 @@
-XSym
-0083
-d48d39e80f479a88ebba64d7a5d611d6
-/var/www/html/vendor/magento/module-catalog/view/frontend/web/js/storage-manager.js
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

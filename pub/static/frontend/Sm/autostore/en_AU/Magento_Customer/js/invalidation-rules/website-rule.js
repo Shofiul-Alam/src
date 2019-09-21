@@ -1,5 +1,0 @@
-XSym
-0100
-a3d32e6a78e06873b9bdf204955a0a39
-/var/www/html/vendor/magento/module-customer/view/frontend/web/js/invalidation-rules/website-rule.js
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
